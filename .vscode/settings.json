@@ -1,3 +1,24 @@
 {
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.enabled": true,
+  "java.import.gradle.wrapper.enabled": true,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.project.importHint": false,
+  "java.jdt.ls.java.home": "/Users/harshitbangar/Library/Java/JavaVirtualMachines/corretto-11.0.17/Contents/Home",
+  "java.server.launchMode": "Standard",
+  "java.completion.importOrder": [
+    "java",
+    "javax",
+    "org",
+    "com"
+  ],
+  "java.configuration.maven.userSettings": "",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-11",
+      "path": "/Users/harshitbangar/Library/Java/JavaVirtualMachines/corretto-11.0.17/Contents/Home",
+      "default": true
+    }
+  ],
+  "java.home": "/Users/harshitbangar/Library/Java/JavaVirtualMachines/corretto-11.0.17/Contents/Home"
 }

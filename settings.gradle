@@ -1,1 +1,3 @@
-rootProject.name = 'load-balancer' 
+rootProject.name = 'load-balancer-system'
+include 'load-balancer'
+include 'server'
